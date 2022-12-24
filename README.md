@@ -27,8 +27,8 @@
 <div align=center>
  <a href="https://blog.naver.com/dhktjr0204" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
  </div>
- 
 <br>
+<div align=center>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhktjr0204&layout=compact">
 <img src="https://github-readme-stats.vercel.app/api?username=dhktjr0204&show_icons=true">
 </div>
