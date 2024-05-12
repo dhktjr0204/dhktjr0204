@@ -29,7 +29,7 @@
 <p>🎨 SNS🎨 </p>
 </div>
 <div align=center>
- <a href="https://blog.naver.com/dhktjr0204" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
+ <a href="https://velog.io/@dhktjr0204/posts" target="_blank"><img src="https://img.shields.io/badge/blog-FF5722?style=flat-square&logo=Blogger&logoColor=white"/></a>
  </div>
 <br>
 <div align=center>
